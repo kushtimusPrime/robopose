@@ -52,6 +52,7 @@ This repository contains the code for the full RoboPose approach and for reprodu
 ![overview](images/method_overview.png)
 
 # Installation
+Install Anaconda first: https://www.digitalocean.com/community/tutorials/how-to-install-anaconda-on-ubuntu-18-04-quickstart
 ```
 git clone --recurse-submodules https://github.com/ylabbe/robopose.git
 cd robopose
